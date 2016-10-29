@@ -6,4 +6,4 @@ and http://www.dota2.com.cn/
 
 if you are intesting in this website 
 
-you can down it from 
+you can down it from https://lylyorick.github.io/InformationOfDota2/
