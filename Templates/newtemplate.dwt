@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+<link href="../newTp.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="header"></div>
+<div id="links">
+  <ul class="topul">
+    <li><a href="indexs.html">首页</a></li>
+    <li><a href="introduce.html">dota2介绍</a></li>
+    <li><a href="download.html">dota2下载</a></li>
+    <li><a href="history.html">dota2历史</a></li>
+    <li><a href="cup.html">辉夜杯</a></li>
+    <li><a href="Vengeful.html">复仇之魂</a></li>
+    <li><a href="Bloodseeker.html">血魔</a></li>
+    <li><a href="Faceless_Void.html">虚空假面</a></li>
+    <li><a href="Phantom_Assassin.html">幻影刺客</a></li>
+    <li><a href="Slark95.html">鱼人夜行者</a></li>
+    <li><a href="Morphling.html">变体精灵</a></li>
+  </ul>
+</div> 
+<div id="content"><!-- TemplateBeginEditable name="新闻正文" -->
+  <div id="newsTitle">
+    <h1>【DOTA2法兰克福秋季特锦赛】</h1>
+    
+  <p>在过去的五年里，国际邀请赛每每为整个Dota职业圈带来了巅峰时刻。而现在电竞圈中即将降临的宏大盛会则是特级锦标赛，一系列旗级锦标赛，分季度在世界各地举办，贯穿全年。
+  <p> Dota全新的传统将于今秋的法兰克福特锦赛开启。首届Dota特级锦标赛将在11月16日至21日于德国法兰克福的法兰克福展览中心Festhalle多功能厅举行，为期六天。届时16支战队将在主赛事上围绕300万美元的总奖金展开激烈的角逐，整个赛事将由ESL负责执行。</p>
+  <table width="907" border="1" cellspacing="0" cellpadding="1">
+    <tr>
+      <td height="61" colspan="6" align="center"><strong style="color:#00F">DOTA2法兰克福秋季特锦赛奖金（总奖金$3,000,000美元）</strong></td>
+    </tr>
+    <tr>
+      <td width="50" height="51"><strong>冠军</strong></td>
+      <td width="250">$1,110,000美元<img alt="欧盟" border="0" src="../images/country/1243516_PCgames_1016_euroflag.gif" title="欧盟"> OG</td>
+      <td width="50"><strong>亚军</strong></td>
+      <td width="250">$405,000美元<img alt="欧盟" border="0" src="../images/country/1243516_PCgames_1016_euroflag.gif" title="欧盟"> Secret</td>
+      <td width="50"><strong> 季军</strong></td>
+      <td width="250">$315,000美元<img alt="美国" border="0" src="../images/country/727979_PCgames_usa_miniflag.gif" title="美国"> EG</td>
+    </tr>
+    <tr>
+      <td width="50" height="51"><strong>殿军</strong></td>
+      <td width="250">$255,000美元 <img alt="中国" border="0" src="../images/country/727979_PCgames_China_miniflag.gif" title="中国"> EHOME</td>
+      <td width="50"><strong>5-6名</strong></td>
+      <td width="250">$202,500美元 <img alt="中国" border="0" src="../images/country/727979_PCgames_China_miniflag.gif" title="中国"> CDEC<img alt="中国" border="0" src="../images/country/727979_PCgames_China_miniflag.gif" title="中国"> VG</td>
+      <td width="50"><strong>7-8名</strong></td>
+      <td width="250">$105,000美元 <img alt="中国" border="0" src="../images/country/727979_PCgames_China_miniflag.gif" title="中国"> LGD<img alt="俄罗斯" border="0" src="../images/country/727979_PCgames_Russia_miniflag.gif" title="俄罗斯">VP</td>
+    </tr>
+    <tr>
+      <td width="50" height="51"><strong>9-12名</strong></td>
+      <td width="250">$45,000美元 <img alt="秘鲁" border="0" src="../images/country/PCgames_Peru_flag.gif"> Un<img alt="俄罗斯" border="0" src="../images/country/727979_PCgames_Russia_miniflag.gif" title="俄罗斯"> Vega<img alt="菲律宾" border="0" src="../images/country/PCgames_Philippines_flag.gif"> Mski<img alt="瑞典" border="0" src="http://img3.pcgames.com.cn/pcgames/0808/07/727979_PCgames_Sweden_miniflag.gif" title="瑞典">Alliance</td>
+      <td width="50"><strong>13-16名</strong></td>
+      <td width="250">$30,000美元 <img alt="美国" border="0" src="../images/country/727979_PCgames_usa_miniflag.gif" title="美国"> C9<img alt="中国" border="0" src="../images/country/727979_PCgames_China_miniflag.gif" title="中国"> Nb<img alt="中国" border="0" src="../images/country/727979_PCgames_China_miniflag.gif" title="中国"> Nb.Y<img alt="马来西亚" border="0" src="../images/country/727979_PCgames_usa_miniflag.gif">Fnatic</td>
+      <td width="50">&nbsp;</td>
+      <td width="250">&nbsp;</td>
+    </tr>
+  </table>
+  </div>
+<!-- TemplateEndEditable --></div>
+<div class="footer">
+&copy;CopyRight by LYL
+</div>
+</body>
+</html>

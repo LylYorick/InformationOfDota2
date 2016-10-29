@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+html, body, div, dl, dt, dd, ul, ol, li, th, td ,p{
+	list-style: none;
+
+	margin: 0;
+	padding: 0;
+}
+body{
+	  background:#f0f0f0;	  
+}
+p{
+	font-size:12px;
+	line-height:20px;
+}
+.clearfix{
+	overflow:hidden;
+	zoom:1;
+}
+	
+#content,#links,#footer{
+	width: 1000px;
+	background:#FFF;
+	margin:0 auto;
+}
+#head {
+	background: url(images/history/history.jpg) no-repeat center top;;
+	height: 300px;
+	margin:0 auto;
+}
+#links {
+	width:1000px;
+	display: block;
+	height: 28px;
+	margin: -28px auto 0 auto;
+	text-align: center;
+	border:solid #666 1px;
+	border-bottom:none;
+	background: url(images/linksBackground.jpg);
+}
+#links .topul li a {
+	front-size: 14px;
+	text-decoration: none;
+	color: #000;
+}
+#links .topul li a:hover {
+	text-decoration: underline;
+	color: #F00;
+}
+.topul {
+	list-style-type: none;
+}
+#links .topul li {
+	float: left;
+	padding: 2px 15px;
+	font-size: 14px;
+}
+#content{
+	width: 990px;
+	padding:0 5px;
+}
+#content .part1 {
+	padding: 15px 15px 0 15px;
+    width: 960px;
+	font-style:normal;
+}
+#content .part1 .topbg {
+	display: block;
+    width: 259px;
+    height: 46px;
+    background:url(images/sybg.png) no-repeat 0 -311px;
+    font-family:"黑体";
+    font-size: 28px;
+    line-height: 46px;
+    text-align: center;
+    color: #fff;
+	font-style:normal;
+	
+}
+#content .part1 .layA {
+	 width: 590px;
+    float: left;
+    height: 260px;
+}
+
+#content .part1 .picleft {
+	float: right;
+}
+.part2 {
+    height: 40px;
+    width: 990px;
+    background: #000 url(images/introduce/sythAbg.png) no-repeat 0 0;
+    line-height: 40px;
+	color:#FFF;
+	font-weight:bold;
+	font-size:18px;
+}
+.part3{
+	 width: 988px;
+	 border:solid 1px #CCCCCC;
+	 border-top:none;
+}
+.part3.clearfix .dota ,.dota2 {
+	float: left;
+	width: 420px;
+	padding:15px;
+}
+.info i {
+	display: block;
+    width: 210px;
+    float: left;
+    height: 24px;
+	font-size:12px;
+    line-height: 24px;
+    text-align: left;
+    overflow: hidden;
+	font-style:normal;
+}
+.jianjie i {
+	float: left;
+	font-style:normal;
+	line-height: 24px;
+	font-size:12px;
+	
+}
+#modian {
+	position: fixed;
+	z-index: 2;
+	float: left;
+	left: 0px;
+	top: 400px;
+	border:#CCC solid 1px;
+	background:#333;
+}
+#modian ul {
+	padding:30px 10px;
+}
+
+#modian .leftpic {
+	width: 300px;
+}
+
+#modian ul li a {
+	text-decoration: none;
+	color:#fff;
+	font-weight:bold;
+}
+
+
+.dota2{
+	float:right;
+}
+.part4{
+	 width: 960px;
+	 border:solid 1px #CCCCCC;
+	 padding:5px 14px;
+}

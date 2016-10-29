@@ -1,0 +1,115 @@
+@charset "utf-8";
+html, body, div, dl, dt, dd, ul, ol, li, th, td ,p{
+	list-style: none;
+
+	margin: 0;
+	padding: 0;
+}
+p{
+	font-size:12px;
+	line-height:20px;
+}
+body {
+	
+	background:url(images/bg1.jpg) center no-repeat;
+}
+.clearfix{
+	overflow:hidden;
+	zoom:1;
+}
+	
+#content,#links,#footer{
+	width: 1000px;
+	background:#FFF;
+	margin:0 auto;
+}
+#head {
+	height: 300px;
+	margin:0 auto;
+}
+#links {
+	width:1000px;
+	display: block;
+	height: 28px;
+	margin: -28px auto 0 auto;
+	text-align: center;
+	border:solid #666 1px;
+	border-bottom:none;
+	background: url(images/linksBackground.jpg);
+}
+#links .topul li a {
+	front-size: 14px;
+	text-decoration: none;
+	color: #000;
+}
+#links .topul li a:hover {
+	text-decoration: underline;
+	color: #F00;
+}
+.topul {
+	list-style-type: none;
+}
+#links .topul li {
+	float: left;
+	padding: 2px 15px;
+	font-size: 14px;
+}
+#content{
+	background:#f0f0f0;
+	width: 990px;
+	padding:0 5px;
+	border:solid 1px #666666;
+}
+#content .part1, part2{
+	margin: 10px;
+	width: 968px;
+}
+.part1A {
+	color: #b83916;
+    font-size: 48px;
+    font-weight: bold;
+    height: 70px
+}
+#content .part1.clearfix .part1B table tbody tr .pcgamesload {
+	height: auto;
+    padding: 15px 0 30px;
+}
+#content .part1.clearfix .part1B table tbody tr .pcgamesload a {
+	font-size: 26px;
+	color: #fff;
+	display: block;
+	width: 211px;
+	height: 70px;
+	line-height: 70px;
+	background: url(images/icons.png)center top no-repeat;
+	background-position: 0px -221px;
+	padding-left: 109px;
+	text-decoration: none;	
+}
+.part2A {
+	display: block;
+    height: 38px;
+    line-height: 38px;
+    color: #333;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.pic {
+	width:377px;
+	margin:0 auto;
+}
+.tpic {
+	float: left;
+	width: 300px;
+}
+#content .part1.clearfix .part1B.clearfix .tleft {
+	float: left;
+	width: 425px;
+}
+
+
+
+.tbcolor{
+	color:#F00;
+}
